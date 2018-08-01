@@ -40,8 +40,6 @@ GV == Google Voice，分享下自己成功申请gv账号的过程。
 
 ![](https://github.com/i0Ek3/GV/blob/master/image/%E5%85%B3%E8%81%94.png?1533095425321)
 
-![](https://github.com/i0Ek3/GV/blob/master/image/verify.png?1533095452874)
-
 **4. 你要全程挂代理，手机电脑同时操作。** 具体方法请自己搜索吧~
 
 **5. 当天的虚拟号码在验证的时候可能会被GV提示有问题，没关系，过段时间或者第二天再试一下就可以了。**
@@ -68,9 +66,9 @@ GV == Google Voice，分享下自己成功申请gv账号的过程。
 
 ## 参考链接
 
-[https://kn007.net/topics/free-application-for-google-voice-phone-number/](https://kn007.net/topics/free-application-for-google-voice-phone-number/)
-[http://blog.jialezi.net/GoogleVoice](http://blog.jialezi.net/GoogleVoice)
-[http://googlevoice.net/index.php/archives/10/](http://googlevoice.net/index.php/archives/10/)
-[https://ifttt.com/applets/131839p-keep-google-voice-active](https://ifttt.com/applets/131839p-keep-google-voice-active)
+[https://kn007.net/topics/free-application-for-google-voice-phone-number/](https://kn007.net/topics/free-application-for-google-voice-phone-number/)<br>
+[http://blog.jialezi.net/GoogleVoice](http://blog.jialezi.net/GoogleVoice)<br>
+[http://googlevoice.net/index.php/archives/10/](http://googlevoice.net/index.php/archives/10/)<br>
+[https://ifttt.com/applets/131839p-keep-google-voice-active](https://ifttt.com/applets/131839p-keep-google-voice-active)<br>
 
 
