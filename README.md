@@ -4,8 +4,8 @@
 
 ## Conteny
 
-- [GV.md]() 如何申请GV账号及经验。
-- [Mix2.md]() Xiaomi Mix2玩机经验，在国际版MIUI上使用MiPay。
+- [GV.md](https://github.com/i0Ek3/GeekWay/blob/master/GV.md?1540555520712) 如何申请GV账号及经验。
+- [Mix2.md](https://github.com/i0Ek3/GeekWay/blob/master/Mix2.md?1540555547103) Xiaomi Mix2玩机经验，在国际版MIUI上使用MiPay。
 - []()
 
 
