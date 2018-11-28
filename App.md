@@ -26,6 +26,8 @@
 
 苹果端的软件还真不少，从娱乐到开发到写作都有。
 
+当然了，mac用户也可以参考[https://github.com/jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)和[https://github.com/iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)。
+
 - Develop
     - [JetBrains]() JetBrains全家桶开发工具，不用解释。
     - [XCode]() 苹果家自带的，不解释。
