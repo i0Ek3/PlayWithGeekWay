@@ -110,6 +110,22 @@
     - [Telegram](https://telegram.org) 不解释。
     - [Whalebird](https://whalebird.org) 第三方的Mastodon客户端。
 
+- [Cli Applications](https://github.com/agarrharr/awesome-cli-apps)
+    - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) 将代码生成图片。
+    - [docz](https://github.com/pedronauck/docz) 超级棒！
+    - [bat](https://github.com/sharkdp/bat)
+    - [m-cli](https://github.com/rgcr/m-cli)
+    - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI)
+    - [fine.sh](https://github.com/just-fine/fine.sh-cli)
+    - [Google Drive](https://github.com/nurdtechie98/drive-cli)
+    - [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
+    - [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli)
+    - [fast-cli](https://github.com/sindresorhus/fast-cli)
+    - [leetcode-cli](https://github.com/skygragon/leetcode-cli)
+    - [splash-cli](https://github.com/splash-cli/splash-cli)
+    - [rebound](https://github.com/shobrook/rebound) Check python error on internet.
+    - []()
+
 
 ## Linux
 
