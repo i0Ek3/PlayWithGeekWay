@@ -10,6 +10,7 @@
 - [Mix2.md](https://github.com/i0Ek3/GeekWay/blob/master/Mix2.md?1540555547103) Xiaomi Mix2玩机经验，在国际版MIUI上使用MiPay。
 - [Android.md](https://github.com/i0Ek3/GeekWay/blob/master/Android.md) 分享Android手机的一些玩机经验。
 - [App.md](https://github.com/i0Ek3/GeekWay/blob/master/App.md) 分享一些我常用的APP。
+- [ROM.md](https://github.com/i0Ek3/GeekWay/blob/master/ROM.md) 分享我常用的 ROM。
 
 
 ## Log
