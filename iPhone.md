@@ -1,8 +1,8 @@
 # iPhone 使用经验
 
-平生第一次使用 iPhone，只是好奇 iOS 到底是何许人也，虽然用过 macOS，但感觉应该是不同的，所以还是下定决心购买了一部今年最新款的 iPhone，并在这里记录下我的使用经验和一些问题。
+平生第一次使用 iPhone，好奇 iOS 到底是何许人也，故作此记录，在这里记录下我的使用经验和一些问题。
 
-手机回来后，还是要检查包装是否正常，拆机后检查手机机身是否 ok，我总是过于小心翼翼，所以这都是我购买手机后的必要流程。
+手机回来后，还是要检查包装是否正常，拆机后检查手机机身是否 ok，我总是过于小心翼翼，因为这是我购买手机的必要流程。
 
 ## 关于激活
 
@@ -10,9 +10,9 @@
 
 ## 信息查看
 
-激活开机后，可以连接爱思检查手机信息状况，如出厂日期，激活时间，充电次数，屏幕材质等一系列信息。
+手机激活进入主界面后，可以连接爱思助手检查手机信息状况，如出厂日期，激活时间，充电次数，屏幕材质等一系列信息。
 
-## 优点
+## iPhone 优点
 
 - 手机是真的很薄，重量倒也还可以，双手把握没什么问题，略重
 - 相机是真的强，虽然对我这种不怎么拍照的人来说相机几乎无用，但确实强
@@ -20,7 +20,7 @@
 - 综合生态很强，和 macOS 很搭
 - 如果有，后面继续补充
 
-## 缺点
+## iPhone 缺点
 
 - 硬件缺点：刷新率不够，屏幕素质，但问题不是太大，毕竟我的安卓机也是 60 Hz
 - Apple Store 的 app 不够完善，很多安卓上的 app 都没有，比如 xda
@@ -28,18 +28,33 @@
 - 手势操作确实不如 Android 11 优秀，依旧只能左上角返回。可定制化也不如 Andoird 11 优秀，但也还行吧
 - 如果有，后面继续补充
 
-## 其他使用情况
+## 常用 App
 
 这里记录下 iPhone 上常用的 App，后面继续补充。
 
-- Telegram、Twitter、Instagram、Reddit
-- YouTube、Google Voice、Gmail
+- Telegram, Twitter, Instagram, Reddit
+- YouTube, Google Voice、Gmail
 - Protonmail
-- Inoreader、Octal
+- Inoreader, Octal
 - Spectre
-- Brave、Firefox
-- GitHub
-- iSH
+- Brave, Firefox
+- GitHub, v2ex, LeetCode
+- iSH, i4Tool
+- Bilibili, NetEaseMusic
+
+## App 安装
+
+除了可以通过 Apple Store 和其他助手安装软件以外，iPhone 也可以像安卓手机那样通过命令行来安装软件，参考如下，平台为 macOS，需先安装 ideviceinstaller 这个软件。
+
+```Shell
+alias ii='ideviceinstaller' 
+alias iii='ideviceinstaller -i' # install ipa
+alias idev='idevice_id -l'
+alias iu='ideviceinstaller -U'
+alias ilog='idevicesyslog'
+alias icut='idevicescreenshot'
+alias idi='ideviceinfo'
+```
 
 ## 可设置项
 
