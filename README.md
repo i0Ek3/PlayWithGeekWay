@@ -10,7 +10,7 @@
 ├── App.md
 ├── AppleID.md
 ├── E72.md
-├── GV.md
+├── GV.md // 更新保号策略，代码来自链接原作者
 ├── Mix2.md
 ├── N900.md
 ├── Nexus6.md
