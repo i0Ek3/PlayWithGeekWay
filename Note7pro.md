@@ -1,5 +1,7 @@
 # Redmi Note 7 Pro
 
+> **手机已出二手。**
+
 该机代号 violet，可刷 PE 等安卓原生和欧版 MIUI，基本上没什么大的问题，但需要注意以下几点：
 
 - recovery 版本不对，刷入 ROM 后会经常重启到 recovery，换个 recovery 试试

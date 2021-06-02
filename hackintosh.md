@@ -1,6 +1,6 @@
 # Hackintosh Configuration
 
-> 1. B360M
+> 1. B360M + i3-9100
 
 ## 本机配置
 
@@ -18,7 +18,11 @@
 |Radiating|JD 109|2020.02.11|利民 AS120|
 |Display|JD 1629|2020.02.13|飞利浦 276E8VJSB（27 英寸 4K 分辨率）|
 
-> 2. [暂未选购]DeskMini 310
+> 2. B460M + i5-10400
+
+Please visit project [MSI-B460M-i5-10400-Hackintosh](https://github.com/i0Ek3/MSI-B460M-i5-10400-Hackintosh).
+
+> 3. [暂未选购]DeskMini 310
 
 
 ## 选购指南

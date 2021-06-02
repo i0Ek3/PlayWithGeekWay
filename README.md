@@ -8,6 +8,7 @@ This project contains a series of mardown files which represent the experience w
 
 ```Shell
 .
+├── Activation.md
 ├── Android.md
 ├── App.md
 ├── AppleID.md
@@ -17,13 +18,20 @@ This project contains a series of mardown files which represent the experience w
 ├── Hackintosh.md
 ├── K30pro.md
 ├── Laptop.md
+├── MiReaderAPK
 ├── Mix2.md
 ├── N900.md
 ├── Nexus6.md
 ├── Note7pro.md
 ├── README.md
 ├── ROM.md
-└── iPhone.md
+├── activation
+├── backup
+├── freearea.txt
+├── iPhone.md
+├── image
+├── keepGV.gs
+└── lmi
 ```
 
 ## Credit
