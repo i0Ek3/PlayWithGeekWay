@@ -71,9 +71,9 @@ GV == Google Voice，分享下自己成功申请gv账号的过程。
 
 ## 参考链接
 
-[https://kn007.net/topics/free-application-for-google-voice-phone-number/](https://kn007.net/topics/free-application-for-google-voice-phone-number/)<br>
-[http://blog.jialezi.net/GoogleVoice](http://blog.jialezi.net/GoogleVoice)<br>
-[http://googlevoice.net/index.php/archives/10/](http://googlevoice.net/index.php/archives/10/)<br>
-[https://ifttt.com/applets/131839p-keep-google-voice-active](https://ifttt.com/applets/131839p-keep-google-voice-active)<br>
-
-
+- [https://kn007.net/topics/free-application-for-google-voice-phone-number/](https://kn007.net/topics/free-application-for-google-voice-phone-number/)
+- [http://blog.jialezi.net/GoogleVoice](http://blog.jialezi.net/GoogleVoice)
+- [http://googlevoice.net/index.php/archives/10/](http://googlevoice.net/index.php/archives/10/)
+- [https://ifttt.com/applets/131839p-keep-google-voice-active](https://ifttt.com/applets/131839p-keep-google-voice-active)
+- [https://www.newlearner.site/2019/06/15/google-voice.html](https://www.newlearner.site/2019/06/15/google-voice.html)
+- [https://github.com/maomiui/googlevoice](https://github.com/maomiui/googlevoice)
