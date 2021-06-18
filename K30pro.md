@@ -2,6 +2,12 @@
 
 兜兜转转又回到了原点，从闲鱼上卖掉了自己的2部k30pro，半年后又从其他卖家手里买了不同的版本回来，还真是缘份啊！
 
+## EU 本地化
+
+首先感谢[该博主](https://blog.minamigo.moe/archives/184)的工作，我们直接下载对应的模块即可安装，具体安装与刷入顺序请参照下图:
+
+![](https://github.com/i0Ek3/PlayWithGeekWay/blob/master/image/xiaomi.eu_localization.png)
+
 ## 把玩记录
 
 - 第一步肯定是解锁了，网上流传的各种方式真的没用，只能耐心等待168小时，不同人可能时间不同，推荐使用国际版解锁工具
