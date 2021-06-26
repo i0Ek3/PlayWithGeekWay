@@ -31,4 +31,5 @@ Please install e-link apk or MiLancher first, then reboot the device and install
 
 ## Change Log
 
-- 2021.05.31 18:30 : Get MiReader and comparison to Kindle, after then I submitted a return, buy a MiReader Pro again.
+- 2021.06.01: I submitted a return for MiReader Pro, give up on it.
+- 2021.05.31: Get MiReader and comparison to Kindle, after then I submitted a return, buy a MiReader Pro again.

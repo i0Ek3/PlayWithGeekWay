@@ -1,6 +1,14 @@
-# 第三方 9.0 ROM 使用情况
+# 自有设备第三方 ROM 使用情况
 
-## XIAOMI Mix2
+## Xiaomi Redmi K30 Pro
+
+- xiaomi.eu
+    - 开发版/稳定版都很完美，个人偏好开发版 
+- LineageOS
+- DotOS
+    - 界面很美观，但是用久了还是想换回 MIUI
+
+## Xiaomi Mix2
 
 - xiaomi.eu
     - 感觉耗电也比较大，但属于官方出品，放心，没有中国版的广告和多余的垃圾
@@ -42,7 +50,7 @@
 - LineageOS 16
     - 现在主要用的，为了追求稳定
 
-## Google Nexus 7 2013 wifi*
+## Google Nexus 7 2013 wifi
 
 - AospExtended
     - 非常省电，可能跟平板的电池大有关系

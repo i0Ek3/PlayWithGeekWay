@@ -32,7 +32,8 @@ This project contains a series of mardown files and some scripts to operate some
 ├── iPhone.md
 ├── /image
 ├── keepGV.gs
-└── /lmi
+├── /lmi
+└── macOSApps.md
 ```
 
 ## Credit

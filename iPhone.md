@@ -32,15 +32,21 @@
 
 这里记录下 iPhone 上常用的 App，后面继续补充。
 
-- Telegram, Twitter, Instagram, Reddit
-- YouTube, Google Voice、Gmail
+- Telegram, Twitter, Instagram
+- Reddit, Medium, Quora, Wikipedia, wikiHow
+- Researcher, Mendeley, Brilliant
+- Pocket, Standard Notes, Trello, Microsoft To Do, Write.as, Notion, PDF Expert
+- YouTube, Google Voice, Gmail, Authenticator, Snapseed
 - Protonmail
 - Inoreader, Octal
 - Spectre
-- Brave, Firefox
-- GitHub, v2ex, LeetCode
-- iSH, i4Tool
-- Bilibili, NetEaseMusic
+- Safari, Brave, Firefox
+- GitHub, v2ex, LeetCode, GeekTime
+- iSH, i4Tool, IFTTT, GroupMe, col.or, TestFlight
+- Bilibili, NetEaseMusic, Spotify, Headphones
+- Mr.Translator, Linguee
+- Maps.me
+- ADrive, Tianyi Cloud, MEGA, Dropbox, Google Drive, OneDrive
 
 ## App 安装
 
@@ -64,4 +70,4 @@ iPhone 的可设置项不是很多，不像 Android 有开发者模式，但总�
 
 ## 其他
 
-其他的可以参考这个[仓库：awesome-ios](https://github.com/vsouza/awesome-ios)。
+其他的可以参考这个[仓库awesome-ios](https://github.com/vsouza/awesome-ios)。
