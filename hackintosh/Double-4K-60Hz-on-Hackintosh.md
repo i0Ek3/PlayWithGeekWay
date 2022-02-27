@@ -22,6 +22,8 @@
 
 i5-10400 的 UHD 630 无法驱动 2 台 4K 60Hz 显示器。针对我已有的硬件情况，我只能实现 1 台 4K 60Hz + 1 台 4K 30Hz。
 
+当我用主板 HDMI 1.4 接 K 显示器的 HDMI 2.0，主板 DP 1.2 接 U 显示器 DP 1.4，只有短暂的成功，让两个显示器都可以实现 4K 60Hz，1 分钟左右之后，K 就绿屏或者花屏，U 直接黑屏。暂无法确定是如何，卖家说必须双端 HDMI 2.0 才能保证 4K 60Hz 的显示。后面看看配置文件是否还有可以调整的地方。
+
 ## 官方说法
 
 在 [Intel 官网](https://www.intel.com/content/www/us/en/support/articles/000025675/graphics.html)可以看到，对应代数的核显是可以带动多台 4K 显示器的。以我 CPU 的核显为例，UHD 630 是可以带 3 台 4K 显示器的，但仅有 DP、eDP、HDMI 2.0 以及雷电 3 接口才可以达到 60 Hz 的刷新率。而一般的主板上仅有一个 DP 1.2 接口和 一个 HDMI 1.4 的接口，故很难满足。
@@ -43,12 +45,31 @@ i5-10400 的 UHD 630 无法驱动 2 台 4K 60Hz 显示器。针对我已有的�
 ## 解决办法
 
 - 心大，无所谓，都能接受，不做改动。
+
 - 钱多，上 RX 6600XT 等免驱独立显卡，独立显卡上的接口通常较为丰富，可以满足双 4K 60Hz 的驱动。
-- 换主板，目前（20220227）来看，B660 主板全系拥有一个 DP 1.4 接口和一个 HDMI 2.1 接口，可以满足双 4K 60Hz 的驱动。
+
+- 换主板（理论上可行，为进行实际测试），目前（20220227）来看，
+
+  - B560 主板全系拥有一个 DP 1.4 接口和一个 HDMI 2.0 接口，可以满足双 4K 60Hz 的驱动。
+
+  - B660 主板全系拥有一个 DP 1.4 接口和一个 HDMI 2.1 接口，可以满足双 4K 60Hz 的驱动。
+
+  - ```console
+    for B66O
+    
+    1x HDMI 2.1 with HDR port, supports a maximum resolution of 4K 60Hz1 / 2
+    1x DisplayPort 1.4 port with HBR3, supports a maximum resolution of 4K 60Hz1 / 2
+    
+    1. Available only on processors featuring integrated graphics.
+    2. Graphics specifications may vary depending on the CPU installed.
+    ```
+
 - You tell me.
 
 ## 其他
 
 从目前的情况来看，如果你选择更换主板，基本上是不需要对黑苹果的配置文件进行改动的。如果你选择更新独立显卡，则需要单独的配置文件。
+
+那我个人目前是没有做任何改动的，等待显卡的降价或者考虑更换主板。
 
 最后，希望大家都可以 4K 60Hz。
