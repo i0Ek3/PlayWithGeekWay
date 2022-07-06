@@ -22,6 +22,7 @@
     - [aospa-sapphire](https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-poco-f2-pro.4370679/) 除了 Android 12 的动画和磁贴相比上面的较少以及热点用起来略有瑕疵以外，暂无其他问题。
     - [Official PixelExperience](https://download.pixelexperience.org/lmi) 目前还没有上传。
     - [xiaomi.eu MIUI 12 based Android 12](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/) 各种效果并没有展示出 Android 12 的风格，仅仅是底层变为 Android 12，当然相对来说更稳定，不需要设定什么，开箱即用。
+- 最后用了一圈下来，还是欧版的 MIUI 13 配合最上面的国产 app 移植最为好用，可能某些银行 app 无法使用（提示手机已经 ROOT），小米做的功能也足够丰富了，文字识别，长截图等。相比 Android 12.1 原生，可玩的更多一些，目前长期使用 MIUI 13 了
 
 
 ## ROM推荐

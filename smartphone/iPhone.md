@@ -1,6 +1,8 @@
 # iPhone 使用经验
 
-平生第一次使用 iPhone，好奇 iOS 到底是何许人也，故作此记录，在这里记录下我的使用经验和一些问题。
+> iP12PM 已出二手，卖给了线下的贩子，给了我 4700 RMB，用了差不多一年半多，还算可以吧，然后我又用回了我的 lmi。
+
+平生第一次使用 iPhone，好奇 iOS 到底是何许机也，故作此记录，在这里记录下我的使用经验和一些问题。
 
 手机回来后，还是要检查包装是否正常，拆机后检查手机机身是否 ok，我总是过于小心翼翼，因为这是我购买手机的必要流程。
 
@@ -16,16 +18,17 @@
 
 - 手机是真的很薄，重量倒也还可以，双手把握没什么问题，略重
 - 相机是真的强，虽然对我这种不怎么拍照的人来说相机几乎无用，但确实强
-- 整体流畅度还是非常好的，反应速度也很快，虽然 Android 11 也很流畅，但是两种不同的感觉
+- 整体流畅度还是非常好的，反应速度也很快，虽然 Android 也很流畅，但是两种不同的感觉
 - 综合生态很强，和 macOS 很搭
 - 如果有，后面继续补充
 
 ## iPhone 缺点
 
-- 硬件缺点：刷新率不够，屏幕素质，但问题不是太大，毕竟我的安卓机也是 60 Hz
+- 硬件缺点：刷新率不够，屏幕素质，但问题不是太大，毕竟我的安卓机也只有 60 Hz
 - Apple Store 的 app 不够完善，很多安卓上的 app 都没有，比如 xda
-- 美区苹果 id 注册略为繁琐，与国区账号不通用，应用下载不通畅
-- 手势操作确实不如 Android 11 优秀，依旧只能左上角返回。可定制化也不如 Andoird 11 优秀，但也还行吧
+- 美区苹果 ID 注册略为繁琐，与国区账号不通用，应用下载不通畅
+- 手势操作确实不如 Android 优秀，依旧只能左上角返回。可定制化也不如 Andoird 优秀，但也还行吧
+- 苹果那个通知系统，实在是让我头大，微信那个圈圈转啊转的，烦死了
 - 如果有，后面继续补充
 
 ## 常用 App
@@ -35,18 +38,18 @@
 - Telegram, Twitter, Instagram
 - Reddit, Medium, Quora, Wikipedia, wikiHow
 - Researcher, Mendeley, Brilliant
-- Pocket, Standard Notes, Trello, Microsoft To Do, Write.as, Notion, PDF Expert
-- YouTube, Google Voice, Gmail, Authenticator, Snapseed
+- Pocket, Standard Notes, Trello, Microsoft To Do
+- YouTube, Google Voice, Gmail, Authenticator
 - Protonmail
 - Inoreader, Octal
 - Spectre
 - Safari, Brave, Firefox
 - GitHub, v2ex, LeetCode, GeekTime
-- iSH, i4Tool, IFTTT, GroupMe, col.or, TestFlight
+- iSH, IFTTT, col.or, TestFlight
 - Bilibili, NetEaseMusic, Spotify, Headphones
-- Mr.Translator, Linguee
+- Mr.Translator, Linguee, DeepL
 - Maps.me
-- ADrive, Tianyi Cloud, MEGA, Dropbox, Google Drive, OneDrive
+- aDrive
 
 ## App 安装
 
@@ -70,4 +73,4 @@ iPhone 的可设置项不是很多，不像 Android 有开发者模式，但总�
 
 ## 其他
 
-其他的可以参考这个[仓库awesome-ios](https://github.com/vsouza/awesome-ios)。
+其他的可以参考这个[仓库 awesome-ios](https://github.com/vsouza/awesome-ios)。
