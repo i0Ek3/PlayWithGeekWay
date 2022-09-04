@@ -19,3 +19,5 @@
 - First, detach Samsung EVO SSD and install Windows on Cuso SSD
 - Second, detach Cuso SSD and install macOS on Samsung EVO SSD
 - Test and modify
+
+More details please check [here](https://github.com/i0Ek3/X230-Hackintosh-Backup).
